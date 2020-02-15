@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemRed"
+        android:title="빨강">
+
+    </item>
+    <item
+        android:id="@+id/itemBlue"
+        android:title="파랑">
+
+    </item>
+    <item
+        android:id="@+id/itemGreen"
+        android:title="초록">
+
+    </item>
+
+</menu>
